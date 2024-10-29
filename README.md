@@ -1,1 +1,3 @@
-# COB290 Labs /n This is my first Git Project ... not really
+# COB290 Labs 
+This is my first Git Project ... not really
+Learning Git is fun ... im being forced to say this .. please help ...
